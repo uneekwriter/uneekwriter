@@ -2,6 +2,8 @@
 
 <h2>IT Helpdesk Projects:</h2>
 
+- <b>Hardware Installation</b>
+  - [Virtual Workbench Lab: Upgrade/ Install GPU and Daisy-Chain Monitors](https://github.com/uneekwriter/ActiveDirectoryLab)
 - <b>PowerShell</b>
   - [Active Directory Bulk User Creation](https://github.com/uneekwriter/ActiveDirectoryLab)
 
