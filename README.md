@@ -9,10 +9,10 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="RakeshaNicole | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="RakeshaBass | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="RakeshaNicole | YouTube" width="22px" src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" />][youtube]
+[<img align="left" alt="RakeshaBass | LinkedIn" width="22px" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" />][linkedin]
 
-[youtube]: https://www.youtube.com/channel/UCNPEsshtYUbss9RXar0eIVA
+[youtube]: https://www.youtube.com/c/NaturalIntrospection84
 [linkedin]: https://linkedin.com/in/rakeshaj/
 
 <!--
