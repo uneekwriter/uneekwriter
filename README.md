@@ -4,6 +4,7 @@
 
 - <b>Hardware Installation</b>
   - [Virtual Workbench Lab: Upgrade/ Install GPU and Daisy-Chain Monitors](https://github.com/uneekwriter/Upgrade-Install-GPU)
+  - [Virtual Workbench Lab: Install Motherboard](https://github.com/uneekwriter/InstallMotherboard)
 - <b>PowerShell</b>
   - [Active Directory Bulk User Creation](https://github.com/uneekwriter/ActiveDirectoryLab)
 
